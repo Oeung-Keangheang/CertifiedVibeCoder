@@ -1,36 +1,37 @@
-# Team charter · <team name> (v1.0, 2026-__-__)
+# Team charter · <CertifiedVibeCoder> (v1.0, 2026)
 
 ## Members and roles
-| Member | GitHub | Role (Sprint 1) | Shared hat |
-|--------|--------|-----------------|------------|
-|        | @      | Product Owner   |            |
-|        | @      | Scrum Master    |            |
-|        | @      | Developer       |            |
+| Member | GitHub | Role (Sprint 1) | 
+|--------|--------|-----------------|
+|   OeungKeangheang     | @  Oeung-Keangheang    | Product Owner   |           
+|   Sok ChungSeang     | @  chungseang123-alt    | Scrum Master    |            
+|   Seng Sarak   | @ sarakseng     | Developer       |            
+|   Song PanhaSeth   | @ sethpanha902-arch      | Developer       |            
+|   Pheng Sopheak   | @ pheakpheng594-prog     | Developer       |            
 
-Scrum Master rotation: Sprint 1 = ______, Sprint 2 = ______.
+Scrum Master rotation: Sprint 1 = Sok ChungSeang, Sprint 2 = Seng Sarak.
 The Product Owner stays the same all semester.
 
 ## Working agreements
-1. TODO (checkable: a time, a number or an observable action)
-2. ...
+1. Every team member must be active and reachable through telegram between 10:00 AM and 3:00 PM Monday through Friday.
+2. Every pull request must be reviewed and commented on by at least one other team member within 24 hours on weekdays.
+3. Any team member who remains blocked on a technical issue for more than 2 hours must post a description of the problem and what they have tried in the team chat channel.
+4. Every commit message must start with the specific lab and task prefix (e.g., Lab-01 task 3: root causes) followed by a clear description of the change.
+5. All team sync meetings must start within 3 minutes of the scheduled time, with attendees present or having provided prior notice.
+
 
 ## Communication channels
 | Purpose       | Channel          | Expected response |
 |---------------|------------------|-------------------|
-| Chat          |                  |                   |
-| Work items    | GitHub Issues    |                   |
+| Chat          | Telegram            |    2 hours               |
+| Work items    | GitHub Issues    |        24 hours           |
 | Files         | this repository  | n/a               |
-| Meetings      |                  |                   |
+| Meetings      |  Discord                |     12 hours              |
 
 ## Decision rules
-- Product questions:
-- Technical questions:
-- Deadlock (no agreement after __ hours):
+- Product questions: The Product Owner makes the final decision after hearing all team members, ensuring product requirements match the case-study brief.
+- Technical questions: The team must reach consensus within 24 hours. If no consensus is reached, a majority vote decides, with the Scrum Master breaking any ties.
+- Deadlock (no agreement after 48 hours): Escalate the issue to the teaching assistant (TA) or instructor during the next lab session or via the official course channel.
 - Where decisions are recorded: lab01/decisions.md
 
 ## Agreed by
-<!-- each member adds "- Name, date" in their own commit (Task 2) -->
-# Decision log · <team name> (v0.1, 2026-__-__)
-| # | Date | Decision | Decided by | Alternatives considered |
-|---|------|----------|------------|-------------------------|
-| 1 |      | Team name "..." | vote 4-1 | ... |
