@@ -1,4 +1,4 @@
-# Team charter · <CertifiedVibeCoder> (v1.0, 2026)
+# Team charter · <CertifiedVibeCoder> (v1.0, 2026-16-10)
 
 ## Members and roles
 | Member | GitHub | Role (Sprint 1) | 
